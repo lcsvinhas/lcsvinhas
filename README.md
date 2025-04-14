@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Lucas, sou brasileiro e desenvolvedor. Graduado em arquitetura e urbanismo e pós-graduando em engenharia de software, obtive conhecimentos essenciais para excelentes projetos web e mobile, assim como estratégias de gestão e liderança.</p>
+<p align="left">Sou Lucas, desenvolvedor com formação em Arquitetura e Urbanismo e pós-graduando em Engenharia de Software. Ao longo da minha trajetória, desenvolvi projetos web e mobile com foco em performance, usabilidade e escalabilidade. Além da parte técnica, também venho me aprofundando em estratégias de gestão de projetos e liderança de equipes. Explore e contribua com meus repositórios!</p>
 
 ###
 
